@@ -12,7 +12,7 @@ File name: ssh_mysql_conn.py
 
 Created on: 20180828
 
-Resume: SSH通道方式连接mysql
+Resume: SSH to connect mysql DB
 
 """
 import datetime as dt
