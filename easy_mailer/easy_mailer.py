@@ -12,7 +12,7 @@ File name: easy_mailer.py
 
 Created on: 20160902
 
-Resume: 便捷发送邮件
+Resume: easy to send email!!
 
 """
 
